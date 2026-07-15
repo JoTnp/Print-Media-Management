@@ -70,7 +70,7 @@ a:hover{
 <ul>
   <li><strong>English (Source 1 - TechTarget) :</strong> "Print media management is the process of organizing, storing, maintaining, and controlling print media resources and related information to ensure efficient production, retrieval, and distribution."</li>
   
-  <li><strong>English (Source 2 - IBM) :</strong> "Print media management refers to the systematic management of printed materials and digital assets used in print production, including design files, product information, workflows, and distribution."</li>
+  <li><strong>English (Source 2 - Adobe) :</strong> "Print media management refers to the systematic management of printed materials and digital assets used in print production, including design files, product information, workflows, and distribution."</li>
   
   <li><strong>Thai :</strong> Print Media Management คือ กระบวนการบริหารจัดการข้อมูลและทรัพยากรที่เกี่ยวข้องกับสื่อสิ่งพิมพ์ ตั้งแต่การจัดเก็บ การแก้ไข การค้นหา การควบคุมข้อมูล ไปจนถึงการนำข้อมูลไปใช้ในการผลิตและเผยแพร่ เพื่อให้การดำเนินงานเป็นระบบ มีประสิทธิภาพ และสามารถเข้าถึงข้อมูลได้อย่างรวดเร็ว</li>
 </ul>
